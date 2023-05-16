@@ -1,0 +1,84 @@
+AirXonix  Version 1.36  (31-May-2001)
+
+****** ENGINE INITIALISATION PROTOCOL ******** 
+
+Mon May 15 21:38:06 2023
+
+
+==== SYSTEM INFORMATION ====
+
+Total phys.memory = 2147483647
+Avail phys.memory = 2147483647
+Total page file = -524289
+Avail page file = -1
+Number of processors = 2
+VendorID = GenuineIntel
+Processor type = 0
+Processor family = 6
+Processor model = 7
+Processor freq = 797103
+
+-- Registry information --
+
+DirectX version : 4.09.00.0904
+Processor id : Intel64 Family 6 Model 23 Stepping 10
+Vendor id : GenuineIntel
+Processor id : Intel64 Family 6 Model 23 Stepping 10
+Vendor id : GenuineIntel
+
+
+---------------------------
+Init D3DX  - ok.
+
+========== ENUMERATING ==========
+
+Total device count = 2
+
+-----------------Device number = 0 --------------
+Mobile Intel(R) GM45 Express Chipset Family \ WINE Direct3D7 Hardware acceleration using WineD3D
+Hardware device type
+
+Total videomode count = 39
+16bit 4/3 VIDEOMODES:
+	320 * 240	 - ok
+	640 * 480	 - ok
+	800 * 600	 - ok
+	1024 * 768	 - ok
+
+VideoModes count = 4
+Sorting VideoModes:
+	320 * 240
+	640 * 480
+	800 * 600
+	1024 * 768
+
+-----------------Device number = 1 --------------
+Mobile Intel(R) GM45 Express Chipset Family \ WINE Direct3D7 Hardware Transform and Lighting acceleration using WineD3D
+Hardware device type
+
+Total videomode count = 39
+16bit 4/3 VIDEOMODES:
+	320 * 240	 - ok
+	640 * 480	 - ok
+	800 * 600	 - ok
+	1024 * 768	 - ok
+
+VideoModes count = 4
+Sorting VideoModes:
+	320 * 240
+	640 * 480
+	800 * 600
+	1024 * 768
+
+
+--------------------------
+
+Useful device count = 2
+
+======= END OF ENUMERATING ========
+
+
+
+==== START DIALOG =====
+
+==== EXIT ON CANCEL ====

@@ -1,0 +1,25 @@
+FULL REGISTERED VERSION: AIRXONIX
+LIMITED USE SOFTWARE LICENSE AGREEMENT
+
+You should carefully read the following terms and conditions before using this software. Your use of this software indicates your acceptance of this license agreement and disclaimer of warranty.
+
+  1. All copyrights to AirXonix are exclusively owned by the author - AxySoft Company.
+ 
+  2. AxySoft grants you as an individual the right to use the AirXonix on only one computer at any single time.  The ownership of the disk on which the AirXonix is recorded belongs to you, but the ownership and copyright of the AirXonix itself belongs to AxySoft.
+  
+  3. You may make copies of this distribution package for backup purposes only. No person or company may distribute AirXonix (this includes but not limited to WWW-server or FTP-server publishing) for free or charging a fee for the distribution without written permission from the copyright holder.
+
+  4. The AirXonix program may not be rented, leased or transferred. 
+
+  5. You may not alter this software in any way; you may not use or distribute any part of the original package. You are also not allowed to emulate, decompile, disassemble, otherwise reverse engineer any executable part of original package. Any such unauthorized use shall result in immediate and automatic termination of this license and may result in criminal and/or civil prosecution.
+
+  6. THE AIRXONIX IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED.  YOU USE IT AT YOUR OWN RISK. NOBODY WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+  7. All rights not expressly granted here are reserved by AxySoft.
+
+  8. Installing and using AirXonix signifies acceptance of these terms and conditions of the license. If you do not agree with the terms of this license you must remove AirXonix from your storage devices and cease to use the product.
+
+
+Copyright (C) 2000-2001 AxySoft.  - All Rights Reserved.
+WWW:  http://www.axysoft.com
+E-Mail:  info@axysoft.com
